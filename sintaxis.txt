@@ -1,0 +1,17 @@
+EN HTML existen eiquetas , las hay de 2 tipos:
+de cierre <etiqueta></etuqueta>  Anidan contenido
+de autocierre se cierran en si mismas
+<etiqueta/> o
+<etiqueta>
+
+En HTML existen los elementos los emelentos determinan que haran las etiquetas. un elemento puede tener un significado o funcionalidad
+el elemento H1 que significa/funcionalidad 'encabezado principal'
+El elemento Button funciona para crear un boton en la pagina
+<Button>open</Button>
+
+El elemento img sirve para insertar imagenes en el navegador y es de autocierre
+<img>
+o
+<img/>
+
+en html cada elemento puede tener artributos , los mismo declaran en la misma etiqueta.los atributos disponibles para utilizar en cada etiqueta .los atributos disponibles 

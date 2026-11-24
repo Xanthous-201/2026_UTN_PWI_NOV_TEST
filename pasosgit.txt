@@ -1,0 +1,10 @@
+Como crear un repositorio?
+git init
+
+para dar seguimiento a los archivos git usamos 
+git add .
+
+para que los archivos  a los que git da seguimiento lo versione usamos 
+  git commit -m 'message'
+
+  
